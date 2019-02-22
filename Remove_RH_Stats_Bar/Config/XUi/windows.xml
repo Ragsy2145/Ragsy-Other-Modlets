@@ -1,6 +1,6 @@
 <Remove_RH_Stats_Bar>
 
-
+	<!-- Code given by 7 Days Forum member Numberz and converted to a modlet version for use  -->
 
 
 		<append xpath="/windows/window[@name='HUDRightStatBars']">
