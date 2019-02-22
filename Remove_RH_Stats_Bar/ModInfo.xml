@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Remove_RH_Stats_Bar" />
+		<Description value="Removes Stats from bottom right hand bar completely Full credit to Numberz for the code" />
+		<Author value="Ragsy" />
+		<Version value="1.0.0" />
+		<Website value="https://7daystodie.com/forums/showthread.php?107542-Remove-xp-announcement-in-bottom-right-modlet"/>
+	</ModInfo>
+</xml>
