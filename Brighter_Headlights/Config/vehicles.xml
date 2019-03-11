@@ -1,33 +1,9 @@
 <Brighter_Headlights>
 	
-		<!-- Tested by bdubyah in XML and now transferred to modlet form  Values 0-10 Setting <property name="bright" value="*"/>
-		it adds to end of vehicle but overides the default until a neater 'set version' can be done enjoy !! -->
+	<!-- Tested by bdubyah in XML and now transferred to modlet form  Values 0-10 Setting <property name="bright" value="*"/>
+	Works in 3rd Person mode and in my 1st Person View Modlet  - Enjoy !! -->
+	<set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@class='headlight']/property[@name='bright']/@value">10</set> 
+	<set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@class='headlight']/property[@name='bright']/@value">10</set>
+	<set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@class='headlight']/property[@name='bright']/@value">10</set>
 	
-		<append xpath="/vehicles/vehicle[@name='vehicleMotorcycle']">
-		<property class="headlight">
-			<property name="class" value="Headlight"/>
-			<property name="parent_part" value="handlebars"/>
-			<property name="transform" value="Origin/handlebar_joint/headlight"/> -->
-			<property name="bright" value="10"/>
-		</property>
-		</append>
-		
-		<append xpath="/vehicles/vehicle[@name='vehicleMinibike']">
-		<property class="headlight">
-		 	<property name="class" value="Headlight"/>
-			<property name="parent_part" value="handlebars"/>
-			<property name="transform" value="Origin/handlebar_joint/headlight"/> -->
-			<property name="bright" value="10"/>
-		</property>
-		</append>
-		
-		<append xpath="/vehicles/vehicle[@name='vehicle4x4Truck']">
-		 <property class="headlight">
-			<property name="class" value="Headlight"/>
-			<property name="parent_part" value="chassis"/>
-			<property name="transform" value="Origin/headlight"/> -->
-			<property name="bright" value="10"/>
-		</property>
-		</append>
-				
 </Brighter_Headlights>
