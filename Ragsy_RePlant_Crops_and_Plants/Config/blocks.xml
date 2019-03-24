@@ -1,7 +1,8 @@
 <Crops_Replant>
 
 		<!-- Plants when hit will auto replant even POI Plants Special Indestructable seeds version by request for Tristam --> 
-	
+	<!-- There will be warnings in console but game runs fine , try not to hit ground blocks under re planted plants or you loose
+         them and the seeds -->
 	<append xpath="/blocks/block[@name='cropsGrowingMaster']">
 	<property name="PassThroughDamage" value="false"/>
 	</append>
