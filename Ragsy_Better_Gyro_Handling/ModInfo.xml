@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Ragsy_Gyro_First_Person" />
+		<Name value="Ragsy_Better_Gyro_Handling" />
 		<Description value="Gyro now more stable better take off and landing and better steering" />
 		<Author value="Ragsy2145"/>
 		<Version value="1.0.0" />
