@@ -2,7 +2,7 @@
 
  <!-- <set xpath="/windows/window[@name='windowAssemble']/panel[@name='content']/rect[@depth='1']/grid[@name='parts']/@rows">10</set> -->
 
-<remove xpath="/windows/windowAssemble"></remove>
+<remove xpath="/windows/window[@name='windowAssemble']"></remove>
 
 <insertAfter xpath="/windows[@name='windowVehicleStorage']" >
 
