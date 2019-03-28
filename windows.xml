@@ -4,7 +4,7 @@
 
 <remove xpath="/windows/window[@name='windowAssemble']"></remove>
 
-<insertAfter xpath="/windows[@name='windowVehicleStorage']" >
+<insertAfter xpath="/windows/window[@name='windowVehicleStorage']">
 
 	<window name="windowAssemble" width="380" height="745" panel="Left" controller="AssembleWindow" cursor_area="true" >
 	<!--#$-IGS END.-$#-->
