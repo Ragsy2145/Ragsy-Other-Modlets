@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+			
+<configs>
+	<set xpath="/materials/material[@id='Mcactus']/property[@name='damage_category']/@value">leaves</set>
+	<set xpath="/materials/material[@id='Mtallgrass']/property[@name='damage_category']/@value">leaves</set>
+	<set xpath="/materials/material[@id='Mwood_weak']/property[@name='damage_category']/@value">leaves</set>
+	<set xpath="/materials/material[@id='Mstone_scrap']/property[@name='damage_category']/@value">leaves</set>
+	
+	<!-- Additional Tweaks for Auto farming with grasscutter by Ragsy 2145 -->
+	<set xpath="/materials/material[@id='MfertilizedFarmland']/property[@name='MaxDamage']/@value">2500</set> <!-- Massive value then very hard destroy ground block Concrete level damage-->
+	<set xpath="/materials/material[@id='Mfarmland']/property[@name='MaxDamage']/@value">2500</set> <!-- Massive value then very hard destroy ground block Concrete level damage -->
+	
+	</configs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Ragsy2145's Modded Version of RussianDood's Grass Cutter" />
+		<Description value="This version converted to allow auto_farming with Ragsy's Replant_crops_and plants Modlet."/>
+		<Author value="Ragsy2145" />
+		<Version value="1.2" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>
