@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Ragsy_RePlant_Crops_and_Plants" />
-		<Description value="Allows re planting of all crops and plants with weedwhacker tool" />
+		<Name value="Ragsy_RePlant_Crops_and_Plants for use with RussianDoods Modified GC" />
+		<Description value="Allows re planting of all crops and plants with grasscutter tool" />
 		<Author value="Ragsy2145"/>
 		<Version value="1.0.1" />
 		<Website value="https://7daystodie.com/forums/showthread.php?106453-Ragsy2145-Modlets-for-A17" />
