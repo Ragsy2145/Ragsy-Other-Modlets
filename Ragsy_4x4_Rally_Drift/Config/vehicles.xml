@@ -1,6 +1,6 @@
 <configs>
 
-	<!-- Purely for fun and to see if it works Rally style drift-->
+	<!-- Rally style drift this version is more realistic and harder to drift -->
 			
 	<remove xpath="/vehicles/vehicle[@name='vehicle4x4Truck']"/>
 	
