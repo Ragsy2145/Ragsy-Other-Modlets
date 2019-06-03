@@ -187,7 +187,7 @@
 			<property name="class" value="Headlight"/>
 			<property name="parent_part" value="chassis"/>
 			<property name="transform" value="Origin/headlight"/>
-			<property name="bright" value="8"/>
+			<property name="bright" value=".75"/>
 		</property>
 
 		<property class="storage">
