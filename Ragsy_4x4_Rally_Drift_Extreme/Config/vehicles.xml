@@ -1,6 +1,6 @@
 <configs>
 
-	<!-- Purely for fun and to see if it works watercar -->
+	<!-- Purely for fun and to see if it works Extreme Edition -->
 			
 	<remove xpath="/vehicles/vehicle[@name='vehicle4x4Truck']"/>
 	
@@ -26,18 +26,9 @@
 		<property name="wheelPtlScale" value="1"/>
 		<property name="waterLift_y_depth_force" value="1, .5, .1"/>
 		<property name="waterDrag_y_velScale_velMaxScale" value="1.5, .9, 1"/>
-		
-		
-		
-
+	
 		<property name="hornSound" value="vehicle/minibike/minibike_horn"/>
 		
-		<!-- <property name="airDrag_velScale_angVelScale" value=".997, .97"/>
-		  1.5, .9, 1 
-		<property name="gravity_multiplier" value="-1000" />-->
-		
-		
-
 		<property class="battery">
 			<property name="class" value="Battery"/>
 			<property name="slot_type" value="battery"/>
